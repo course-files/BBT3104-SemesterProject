@@ -1,4 +1,4 @@
-# BBT3104: Advanced Database Sytems Semester Project
+# BBT3104: Advanced Database Systems Semester Project
 
 | **Key**                                                               | Value                                                                                                                                                                              |
 |---------------|---------------------------------------------------------|
