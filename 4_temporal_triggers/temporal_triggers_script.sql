@@ -1,0 +1,1 @@
+-- Code for creating all the temporal triggers (scheduled events) in the database

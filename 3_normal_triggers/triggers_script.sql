@@ -1,0 +1,1 @@
+-- Code for creating all the triggers in the database
